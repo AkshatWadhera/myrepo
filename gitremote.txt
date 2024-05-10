@@ -1,0 +1,2 @@
+1) Make a GitHUB Account
+2) Configure the GIT Username and Email
